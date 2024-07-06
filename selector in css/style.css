@@ -1,0 +1,50 @@
+*{
+    background-color: rgb(31,31,31);
+    color: white;
+
+}
+/* this mean that add the specificity */
+#para1.para1{
+    background-color: teal;
+    
+}
+
+#para1{
+    color: aqua;
+    font-size: 20px;
+}
+
+
+.para2{
+    background-color: blanchedalmond;
+}
+
+#para2{
+    color: black;
+    font-size: 20px;
+}
+
+#para3{
+    background-color: aquamarine;
+    color: black;
+    font-size: 20px;
+}
+
+/* color the start one value */
+/* p[class ^= "good"]{
+    background-color: red;
+} */
+
+
+
+/* color the end one value  */
+
+/* p[class $= "good"]{
+    background-color: red;
+} */
+
+
+/* p[class *= "fair"]{
+    background-color: yellow;
+} */
+

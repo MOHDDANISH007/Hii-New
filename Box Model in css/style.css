@@ -1,0 +1,25 @@
+ .parent{
+    /* width: 800px; */
+    height: 50%;
+    background-color: crimson;
+}
+
+
+
+.one{
+    background-color: aquamarine;
+    /* display: inline-block;   */
+    /* max-width: 800px; */
+    /* min-width: 100px; */
+    /* height: 300px; */
+    /* min-height: 300px; */
+    /* max-height: 300px; */
+    width: 300px;
+    padding: 20px ;
+
+ 
+}
+
+.two{
+    background-color: blueviolet; 
+}  
